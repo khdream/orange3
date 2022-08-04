@@ -68,7 +68,7 @@ class Config(config.Config):
     Orange application configuration
     """
     OrganizationDomain = "biolab.si"
-    ApplicationName = "Orange"
+    ApplicationName = "Orange" 
     ApplicationVersion = Orange.__version__
     AppUserModelID = "Biolab.Orange"  # AppUserModelID for windows task bar
 
